@@ -1,0 +1,1 @@
+Count how many times each unique word occurs in text.
